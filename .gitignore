@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.data/
+/data/
+/data/ny.json
+/tmp/
+/.cache/
+**/.DS_Store
+cookies.json
+playwright/.cache/
