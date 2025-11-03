@@ -1,4 +1,4 @@
-## New Yorker Reading Levels (2005–2024)
+## New Yorker Reading Levels
 
 This project scrapes The New Yorker magazine issues and web-only content, extracts article text, computes readability metrics, and aggregates results by issue and year.
 
